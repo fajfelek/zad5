@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/filipstajniak/CLionProjects/zad5/main.cpp
+iostream
+-
+deque
+-
+vector
+-
+fstream
+-
+mpi.h
+-
+cmath
+-
+cstdlib
+-
+

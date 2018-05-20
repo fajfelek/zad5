@@ -1,0 +1,1 @@
+/usr/local/Cellar/gcc/7.3.0_1/bin/c++-7  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/zad5.dir/main.cpp.o  -o zad5 
